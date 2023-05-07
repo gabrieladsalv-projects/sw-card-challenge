@@ -198,9 +198,9 @@ ul li span {
 
 .card-image img {
     position: absolute;
-    width: 427px;
+    width: 340px;
     height: 558px;
-    right: -40px;
+    right: 15px;
     bottom: 0px;
 }
 
